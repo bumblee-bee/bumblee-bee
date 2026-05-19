@@ -83,11 +83,7 @@ Curious about Robotics, Games, Competitive Programming and Fun Tech Projects ðŸš
 
 ---
 
-# ðŸ“Š GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bumblee-bee&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bumblee-bee&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
