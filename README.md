@@ -29,18 +29,6 @@ Robotics • Competitive Programming • Fun Projects • Learning Game Developm
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bumblee-bee&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumblee-bee&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💻 Codeforces: https://codeforces.com/profile/bumblee_bee
